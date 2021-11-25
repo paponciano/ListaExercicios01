@@ -1,0 +1,15 @@
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\Exercicio05.exe
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\Exercicio05.deps.json
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\Exercicio05.runtimeconfig.json
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\Exercicio05.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\ref\Exercicio05.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\bin\Debug\net6.0\Exercicio05.pdb
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.csproj.AssemblyReference.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.AssemblyInfoInputs.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.AssemblyInfo.cs
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\ref\Exercicio05.dll
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.pdb
+C:\Users\papon\Desktop\Treinamento C# .Net\ListaExercicios01\Exercicio05\obj\Debug\net6.0\Exercicio05.genruntimeconfig.cache
